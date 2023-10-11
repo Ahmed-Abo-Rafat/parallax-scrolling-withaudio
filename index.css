@@ -5,8 +5,8 @@ body{
 }
 audio {
     position: absolute;
-    opacity: 0;
-    left: -100px;
+    left: 2px;
+    bottom: 2px;
 }
 .box1, .box2, .box3 {
     width: 100%;
